@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App Calculadora</string>
+    <string name="login">Login</string>
+    <string name="usuario">Usuario</string>
+    <string name="clave">Clave</string>
+    <string name="accesar">Accesar</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="sumar">SUMAR</string>
+    <string name="restar">RESTAR</string>
+    <string name="multiplicar">MULTIPLICAR</string>
+    <string name="dividir">DIVIDIR</string>
+    <string name="resultado">Resultado</string>
+    <string name="salir">Salir</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+        <style name="Theme.AppCalculadora" parent="android:Theme.Material.Light.NoActionBar">
+                <!-- Solo define lo esencial para evitar errores de Android -->
+                <item name="android:windowBackground">@android:color/transparent</item>
+                <item name="android:statusBarColor">@android:color/transparent</item>
+        </style>
+</resources>
